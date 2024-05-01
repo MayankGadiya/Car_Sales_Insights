@@ -1,4 +1,6 @@
 CAR SALES DASHBOARD
+
+
 OBJECTIVE - The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
 KPI’s Requirement- The dashboard provides real-time insights into key performance indicators (KPIs) related to sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 1.	Sales Overview:
